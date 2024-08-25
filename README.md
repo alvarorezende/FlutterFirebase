@@ -1,2 +1,2 @@
 # FlutterFirebase
-Mobile app buiilt using Flutter and Cloud Firestore for study purpose
+Mobile app built using Flutter and Cloud Firestore for study purpose
